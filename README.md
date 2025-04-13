@@ -24,6 +24,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
++ Download the pre-trained weights for the models. Make sure to add them in a 'weights' folder in the project directory.
 + Run the following command in your terminal to run the app
 ```
 python app.py
